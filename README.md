@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @p1k11
 - 👀 I’m interested in crochet
 - 🌱 I’m currently learning games programming
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I like pizza with pineapples on
+- 😄 Pronouns: they/he
 
 <!---
 p1k11/p1k11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
